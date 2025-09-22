@@ -20,7 +20,7 @@ Este é o site oficial da **Alice Auto Center**, desenvolvido em HTML, CSS e Jav
 5. Clique em **Save**.
 
 🔗 O site ficará disponível em:  
-👉 [https://aliceautocenterr.github.io/alice-autocenter-site/]([https://aliceautocenterr.github.io/alice-autocenter/])
+👉 [https://aliceautocenterr.github.io/alice-autocenter/]([https://aliceautocenterr.github.io/alice-autocenter/])
 
 ## 📈 SEO e Indexação
 - O site já contém **metatags** e **JSON-LD** para aparecer bem no Google.
