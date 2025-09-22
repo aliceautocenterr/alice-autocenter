@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aliceautocenterr.github.io/alice-autocenter-site/sitemap.xml
